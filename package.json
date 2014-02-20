@@ -1,0 +1,10 @@
+{
+  "name": "component-states",
+  "description": "List of states",
+  "version": "1.0.0",
+  "keywords": [
+    "states",
+    "list"
+  ],
+  "dependencies": {}
+}
